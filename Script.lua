@@ -437,7 +437,7 @@ end
 
 -- Public interface
 local JunkieProtected = {}
-JunkieProtected.API_KEY="API_KEY_PLACEHOLDER"
+JunkieProtected.API_KEY="dabdae35d62444ee8d8e4dd25237a522"
 JunkieProtected.PROVIDER="Mixed"
 JunkieProtected.SERVICE_ID="Default"
 JunkieProtected.OBFUSCATION_HASH="ff934aa40007b8b7f3b1ed2a73a150a6"
